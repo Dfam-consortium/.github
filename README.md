@@ -1,2 +1,1 @@
-# .github
-Dfam Consortium Public View
+# Dfam Consortium Public View
