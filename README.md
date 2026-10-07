@@ -1,5 +1,5 @@
-# Dfam Consortium Organization Public Repository
-Repository to hold the banner page for the public view of the Dfam Consortium github organization.  
-The banner page is stored in profile/README.md, and WIKI is stored 
-in https://github.com/Dfam-consortium/.github.wiki.git and may be cloned/edited with git 
-as well as the online interface here: https://github.com/Dfam-consortium/.github/wiki
+## Dfam Consortium
+
+[Dfam](https://dfam.org) is an open database of transposable element (TE) families. Each family is built from a curated seed alignment of representative copies, from which we derive a profile HMM and a consensus sequence. Dfam also provides genome annotations for a set of core genomes, and researchers can submit their own TE libraries. This organization is where the Dfam software lives. That includes the in-house developed [RepeatMasker](https://github.com/Dfam-consortium/RepeatMasker) and [RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler) tools for annotating and discovering repeats, along with the tools and libraries that support curation ([dfam-curator](https://github.com/Dfam-consortium/dfam-curator)) and the website.
+
+📖 **Not sure where to start?** The **[Dfam Consortium Wiki](https://github.com/Dfam-consortium/.github/wiki/Dfam-Consortium-Wiki)** gives an overview of each project and how they fit together. Detailed documentation lives in each repository.
